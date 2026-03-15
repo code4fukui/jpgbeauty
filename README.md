@@ -1,5 +1,7 @@
 # jpgbeauty
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Large JPG files can be resized for web publishing (supports batch conversion, no server upload required).
 
 ## Demo
