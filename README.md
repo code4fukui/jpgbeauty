@@ -28,4 +28,4 @@ The app uses the following open-source libraries:
 - [exif-js](https://github.com/taisukef/exif-js)
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
