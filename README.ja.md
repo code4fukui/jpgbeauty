@@ -4,7 +4,7 @@ Web向けにサイズの大きいJPGおよびPNGファイルをリサイズ・�
 
 ## デモ
 
-**https://code4fukui.github.io/jpgbeauty/**
+**https://github.com/code4fukui/jpgbeauty
 
 ## 機能
 

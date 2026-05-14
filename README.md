@@ -6,7 +6,7 @@ A client-side tool to resize and compress large JPG and PNG files for the web. A
 
 ## Demo
 
-**https://code4fukui.github.io/jpgbeauty/**
+**https://github.com/code4fukui/jpgbeauty
 
 ## Features
 
